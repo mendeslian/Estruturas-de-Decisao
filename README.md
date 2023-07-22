@@ -9,3 +9,5 @@ Este repositório foi criado com fins educacionais e para compartilhar conhecime
 Caso você tenha sugestões para melhorias nas soluções existentes ou deseje contribuir com novas questões de estrutura de decisão, fique à vontade para colaborar! 
 
 Aproveite o aprendizado e divirta-se codificando!
+
+By: Lian Mendes
